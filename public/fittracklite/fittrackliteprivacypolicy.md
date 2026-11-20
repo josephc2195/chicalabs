@@ -23,7 +23,7 @@ If you back up your iPhone with iCloud or a computer, this data may be included 
 FitTrackLite uses Apple Health only if you give permission, and only to support your workouts.
 
 - **Read:** heart rate and walking/running distance, so you can see them live during a workout and review them afterward.
-- **Write:** your completed workouts, so they count toward your Activity rings.
+- **Write:** your completed workouts, including estimated calories burnt, so they count toward your Activity rings.
 
 Health data is never used for advertising, marketing or data mining. It is never sold or shared with third parties, and FitTrackLite never stores it in iCloud.
 
