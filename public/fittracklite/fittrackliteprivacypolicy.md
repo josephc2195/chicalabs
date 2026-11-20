@@ -1,6 +1,6 @@
 # FitTrackLite Privacy Policy
 
-FitTrackLite keeps all of your information on your device. Chicas Apps does not collect, receive, store or share any of your personal data.
+FitTrackLite keeps all of your information on your device. ChicaLabs does not collect, receive, store or share any of your personal data.
 
 This policy explains what FitTrackLite stores on your iPhone, how it uses Apple Health, and the choices you have. It applies to the FitTrackLite iOS app, including its widget and Live Activity.
 
@@ -62,4 +62,4 @@ If we change how FitTrackLite handles your information, for example by adding ne
 
 ## Contact
 
-Questions about this policy or your privacy? Contact Chicas Apps at **chicalabsinfo@gmail.com**.
+Questions about this policy or your privacy? Contact ChicaLabs at **chicalabsinfo@gmail.com**.
